@@ -94,7 +94,7 @@ Currently diving deep into JavaScript while sharpening my C++ and Java fundament
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | **LeetCode** | 50+ | - |
-| **CodeChef** | 618| 1105 |
+| **CodeChef** | 618| 1115 |
 | **CodeForces** |  |  |
 | **GeeksForGeeks** |  |  |
 
